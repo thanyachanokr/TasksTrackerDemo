@@ -7,4 +7,5 @@ There are three main steps:
 ## 
 * Basic with ACR deployment (TasksTrackerBasic)
 * with Dapr  (TasksTrackerDapr)
-
+* ...
+  
