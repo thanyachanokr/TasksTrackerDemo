@@ -5,7 +5,7 @@ This is a tutorial for a lecture class DES424. This tutorial adopted with some m
 There are three main steps:
 
 ## 
-* Basic with ACR deployment (TasksTrackerBasic)
-* with Dapr  (TasksTrackerDapr)
-* ...
+* Container App with ACR deployment (TasksTrackerBasic)
+* Container App with Dapr  (TasksTrackerDapr)
+
   
