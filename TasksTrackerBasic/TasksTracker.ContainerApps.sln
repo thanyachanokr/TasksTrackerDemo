@@ -7,8 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TasksTracker.TasksManager.B
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TasksTracker.WebPortal.Frontend.Ui", "TasksTracker.WebPortal.Frontend.Ui\TasksTracker.WebPortal.Frontend.Ui.csproj", "{4777E182-C3D9-479A-AD58-318E24166CA8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TasksTracker.Processor.Backend.Svc", "TasksTracker.Processor.Backend.Svc\TasksTracker.Processor.Backend.Svc.csproj", "{82531671-D01D-449B-B79F-E7215083AA2C}"
-EndProject
+
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

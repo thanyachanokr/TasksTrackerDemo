@@ -29,7 +29,7 @@ namespace TasksTracker.WebPortal.Frontend.Ui.Pages.Tasks.Models
         [Display(Name = "Assigned To")]
         [Required]
         public string TaskAssignedTo { get; set; } = string.Empty;
-        public string TaskCreatedBy { get; set; } = string.Empty;
+        public string? TaskCreatedBy { get; set; } = string.Empty;
     }
 
     public class TaskUpdateModel
