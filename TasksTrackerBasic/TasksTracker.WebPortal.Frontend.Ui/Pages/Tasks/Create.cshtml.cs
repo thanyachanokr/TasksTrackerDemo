@@ -28,7 +28,7 @@ namespace TasksTracker.WebPortal.Frontend.Ui.Pages.Tasks
         }
 
         [BindProperty]
-        public TaskAddModel TaskAdd { get; set; }
+        public TaskAddModel? TaskAdd { get; set; }
 
         public async Task<IActionResult> OnPostAsync()
         {
