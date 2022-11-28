@@ -2,7 +2,7 @@ componentType: state.azure.cosmosdb
 version: v1
 metadata:
 - name: url
-  value: https://apichon-state-store.documents.azure.com:443/
+  value: https://pingping-state-store.documents.azure.com:443/
 - name: masterkey
   secretRef: cosmoskey
 - name: database
@@ -11,6 +11,6 @@ metadata:
   value: taskscollection
 secrets:
 - name: cosmoskey
-  value: "1Jr00UVEaXf3QlpxgsGn9eMRH521j0NUuF3zNLAuunJdk2TspcNaAZ7gYD4VD1k3oHLSvRuVUJRAACDbk5dPNg=="
+  value: "VghndBw7PW5P2GRqKyKgo3rBCSa7SexuYSCADi9W5pcroF1RckBg3lXNt3xOdGQKuPHql1BNsxThACDbeeii3A=="
 scopes:
 - tasksmanager-backend-api
